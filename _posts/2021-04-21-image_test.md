@@ -1,1 +1,1 @@
-![[KakaoTalk_20240409_171942110_01.jpg]]
+[봉만이](file://../images/KakaoTalk_20210923_145738730.jpg)
