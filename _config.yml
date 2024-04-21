@@ -108,11 +108,11 @@ author:
   avatar           : "/images/김정주_증명사진.png"
   bio              : "이제 막 시작한 신입개발자 입니다."
   location         : "Seoul"
-  massimo198@naver.com : "massimo198@naver.com"
+  email            : "massimo198@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: 
+      # url: "mailto:massimo198@naver.comm"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JungjuKim"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
